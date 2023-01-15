@@ -1,0 +1,8 @@
+Ivanov Ivan	15	131
+Ivanov P	12	121
+Ivanov P	15	135
+Ivanov P	15	155
+Ivanov Petr	16	141
+Ivanov S	15	140
+Petrov	14	125
+Sidorov	13	128
